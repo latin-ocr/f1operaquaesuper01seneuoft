@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./f1operaquaesuper01seneuoft_0007.png"; bbox 0 0 2008 3060; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 318 1067 1689 1363">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 318 1067 1689 1363">
+     <span class='ocr_line' id='line_1_1' title="bbox 318 1067 1689 1160; baseline 0.009 -12"><span class='ocrx_word' id='word_1_1' title='bbox 318 1067 944 1151; x_wconf 80' lang='lat' dir='ltr'><strong>FRANOISGO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 995 1070 1689 1160; x_wconf 82' lang='lat' dir='ltr'>BVEOHELER</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 405 1278 1577 1363; baseline 0.003 -4"><span class='ocrx_word' id='word_1_3' title='bbox 405 1278 915 1361; x_wconf 86' lang='lat' dir='ltr'><strong>HERMAN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 920 1281 996 1361; x_wconf 89' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_5' title='bbox 1006 1280 1075 1363; x_wconf 87' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_6' title='bbox 1124 1280 1577 1363; x_wconf 76' lang='lat' dir='ltr'>VSENER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 703 1490 1287 1552">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 703 1490 1287 1552">
+     <span class='ocr_line' id='line_1_3' title="bbox 703 1490 1287 1552; baseline 0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 703 1490 1287 1552; x_wconf 85' lang='lat' dir='ltr'>BONNENSIBVS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

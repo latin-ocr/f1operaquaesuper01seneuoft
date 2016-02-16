@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./f1operaquaesuper01seneuoft_0411.png"; bbox 0 0 2028 3106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 1346 1766 1547">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 1346 1766 1547">
+     <span class='ocr_line' id='line_1_1' title="bbox 637 1346 1554 1418; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 637 1356 872 1418; x_wconf 83' lang='grc' dir='ltr'>ΡΙ.ΕΑ5Ε</span> <span class='ocrx_word' id='word_1_2' title='bbox 915 1346 1024 1417; x_wconf 78' lang='grc' dir='ltr'>ΒΟ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1066 1356 1221 1417; x_wconf 88' lang='grc' dir='ltr'>ΝΟΤ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1264 1355 1554 1416; x_wconf 69' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 426 1482 1766 1547; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 426 1485 658 1547; x_wconf 71' lang='lat' dir='ltr'>CARDS</span> <span class='ocrx_word' id='word_1_6' title='bbox 698 1485 800 1546; x_wconf 71' lang='grc' dir='ltr'>ΟΒ</span> <span class='ocrx_word' id='word_1_7' title='bbox 846 1483 1018 1544; x_wconf 81' lang='lat' dir='ltr'>SUPS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1063 1483 1265 1544; x_wconf 77' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1303 1482 1450 1543; x_wconf 77' lang='grc' dir='ltr'>ΤΗΙδ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1494 1482 1766 1543; x_wconf 74' lang='grc' dir='ltr'>ΡΟΕΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 477 1723 1714 1787">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 477 1723 1714 1787">
+     <span class='ocr_line' id='line_1_3' title="bbox 477 1723 1714 1787; baseline -0.003 0"><span class='ocrx_word' id='word_1_11' title='bbox 477 1726 866 1787; x_wconf 73' lang='grc' dir='ltr'>υΝΝΕΙὶδΙΤΥ</span> <span class='ocrx_word' id='word_1_12' title='bbox 906 1725 1004 1786; x_wconf 75' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_13' title='bbox 1044 1723 1402 1785; x_wconf 74' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_14' title='bbox 1447 1724 1714 1783; x_wconf 70' lang='lat' dir='ltr'>UBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 263 2175 1515 2351">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 263 2175 1515 2351">
+     <span class='ocr_line' id='line_1_4' title="bbox 263 2175 1515 2261; baseline 0.034 -42"><span class='ocrx_word' id='word_1_15' title='bbox 263 2175 345 2222; x_wconf 52' lang='grc' dir='ltr'>ΓΑ</span> <span class='ocrx_word' id='word_1_16' title='bbox 599 2180 881 2256; x_wconf 65' lang='lat' dir='ltr'><strong>Seneca,</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 936 2189 1180 2250; x_wconf 68' lang='lat' dir='ltr'><strong>Lucius</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1227 2202 1515 2261; x_wconf 68' lang='lat' dir='ltr'>Annaeus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 721 2268 1514 2351; baseline 0.037 -33"><span class='ocrx_word' id='word_1_19' title='bbox 721 2268 924 2334; x_wconf 73' lang='lat' dir='ltr'>Opera</span> <span class='ocrx_word' id='word_1_20' title='bbox 977 2292 1091 2346; x_wconf 65' lang='lat' dir='ltr'>qua</span> <span class='ocrx_word' id='word_1_21' title='bbox 1147 2293 1514 2351; x_wconf 70' lang='lat' dir='ltr'><strong>supersunt.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 192 2245 618 2942">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 192 2245 618 2942">
+     <span class='ocr_line' id='line_1_6' title="bbox 192 2245 618 2942; baseline 0 164"><span class='ocrx_word' id='word_1_22' title='bbox 192 2245 618 2942; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
